@@ -1,5 +1,3 @@
-# AI-Support-Ticket-Classifier
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
